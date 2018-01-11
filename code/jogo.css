@@ -1,0 +1,40 @@
+#p1{
+    font-size:25px;
+    color: white;
+
+}
+p{
+    font-size:30px;
+    color:#ffff33;
+}
+h1{
+    font-family: "Courier";
+}
+h3{
+    color: rgb(204, 136, 0);
+    
+}
+canvas{
+background:url(../resources/jogo.jpg);
+}
+body{
+    background:url(../resources/wood.jpg);
+}
+h1{
+    color: white;
+}
+#contas{
+    background-color: saddlebrown;
+    color:#ffff33;
+    font-size: 80px;
+}
+#vidas{
+    background-color: saddlebrown;
+    color:#ffff33;
+    font-size: 70px;
+}
+#pontuacao{
+    background-color: saddlebrown;
+    color:#ffff33;
+    font-size: 70px;
+}

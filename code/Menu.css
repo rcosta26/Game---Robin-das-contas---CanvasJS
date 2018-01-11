@@ -1,0 +1,42 @@
+body{ background:url(../resources/menu.jpg);
+
+}
+#titulo{
+    font-family: "Courier";
+    font-size: 120px;
+    font-style: italic;
+    color: rgb(230, 172, 0);
+}
+p{
+    font-family: "Arial";
+    font-size: 40px;
+    font-style: italic;
+    color: #ffff33;
+}
+#instrucao{
+    font-family: "Arial";
+    font-size: 20px;
+    font-style: italic;
+    color: #ffff33;
+}
+#button1{
+    width:250px;
+    height:250px; 
+    font-size:30px;
+    border-radius:150px;
+    background-color:#59b300;
+}
+#button2{
+    background-color: #4f9900;
+    width:250px;
+    height:250px; 
+    font-size:30px;
+    border-radius:150px;
+}
+#button3{
+    background-color: #284d00;
+    width:250px;
+    height:250px; 
+    font-size:30px;
+    border-radius:150px;
+}
